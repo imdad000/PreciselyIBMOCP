@@ -3,7 +3,7 @@ entries:
   ibm-b2bi-prod:
   - apiVersion: v2
     appVersion: 6.1.1.1
-    created: "2022-08-02T10:22:34.087768805+05:30"
+    created: "2022-08-02T21:08:38.082376468+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -39,6 +39,6 @@ entries:
     name: ibm-b2bi-prod
     type: application
     urls:
-    - https://github.com/imdad000/PreciselyIBMOCP/blob/main/ibm-b2bi-prod-2.1.tgz
+    - ibm-b2bi-prod-2.1.tgz
     version: "2.1"
-generated: "2022-08-02T10:22:34.045143385+05:30"
+generated: "2022-08-02T21:08:38.034730451+05:30"
