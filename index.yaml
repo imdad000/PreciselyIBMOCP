@@ -39,6 +39,6 @@ entries:
     name: ibm-b2bi-prod
     type: application
     urls:
-    - http://artifactory.syncdi1.us.syncsort.com:80/artifactory/helm-virtual/ibm-b2bi-prod-2.1.tgz
+    - https://github.com/imdad000/PreciselyIBMOCP/blob/main/ibm-b2bi-prod-2.1.tgz
     version: "2.1"
 generated: "2022-08-02T10:22:34.045143385+05:30"
