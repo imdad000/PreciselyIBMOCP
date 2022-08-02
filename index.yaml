@@ -25,7 +25,6 @@ entries:
     urls:
     - https://github.com/imdad000/PreciselyIBMOCP/ibm-b2bi-prod-2.1.tgz
     type: application
-    kubeVersion: '>=1.17'
     dependencies:
     - name: ibm-sch
       repository: '@sch'
