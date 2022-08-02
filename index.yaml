@@ -23,7 +23,7 @@ entries:
     - name: IBM
     name: ibm-b2bi-prod
     urls:
-    - http://artifactory.syncdi1.us.syncsort.com:80/artifactory/helm-virtual/ibm-b2bi-prod-2.1.tgz
+    - https://github.com/imdad000/PreciselyIBMOCP/blob/main/ibm-b2bi-prod-2.1.tgz
     type: application
     kubeVersion: '>=1.17'
     dependencies:
